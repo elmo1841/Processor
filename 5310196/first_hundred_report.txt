@@ -1,0 +1,707 @@
+Time at stop: 13000
+Average turn around time: 100
+Average innitial wait time: 0
+Average service time: 56
+Average inter arrival time: 0
+----------------------------------------------------
+----------------------------------------------------
+Process ID:            1000
+Service Time:          20
+Arrival Time:          0
+Innitial Wait Time:    0
+Turn Around Time:      21
+Innactive Time:        1
+--------Process # 0----------------------------------
+Process ID:            1000
+Service Time:          20
+Arrival Time:          0
+Innitial Wait Time:    0
+Turn Around Time:      21
+Innactive Time:        1
+--------Process # 1----------------------------------
+Process ID:            1001
+Service Time:          87
+Arrival Time:          121
+Innitial Wait Time:    0
+Turn Around Time:      87
+Innactive Time:        0
+--------Process # 2----------------------------------
+Process ID:            1002
+Service Time:          26
+Arrival Time:          221
+Innitial Wait Time:    0
+Turn Around Time:      28
+Innactive Time:        2
+--------Process # 3----------------------------------
+Process ID:            1002
+Service Time:          26
+Arrival Time:          221
+Innitial Wait Time:    0
+Turn Around Time:      28
+Innactive Time:        2
+--------Process # 4----------------------------------
+Process ID:            1002
+Service Time:          26
+Arrival Time:          221
+Innitial Wait Time:    0
+Turn Around Time:      28
+Innactive Time:        2
+--------Process # 5----------------------------------
+Process ID:            1003
+Service Time:          55
+Arrival Time:          252
+Innitial Wait Time:    0
+Turn Around Time:      55
+Innactive Time:        0
+--------Process # 6----------------------------------
+Process ID:            1004
+Service Time:          24
+Arrival Time:          413
+Innitial Wait Time:    0
+Turn Around Time:      25
+Innactive Time:        1
+--------Process # 7----------------------------------
+Process ID:            1004
+Service Time:          24
+Arrival Time:          413
+Innitial Wait Time:    0
+Turn Around Time:      25
+Innactive Time:        1
+--------Process # 8----------------------------------
+Process ID:            1005
+Service Time:          12
+Arrival Time:          611
+Innitial Wait Time:    0
+Turn Around Time:      12
+Innactive Time:        0
+--------Process # 9----------------------------------
+Process ID:            1006
+Service Time:          99
+Arrival Time:          619
+Innitial Wait Time:    4
+Turn Around Time:      103
+Innactive Time:        4
+--------Process # 10----------------------------------
+Process ID:            1007
+Service Time:          74
+Arrival Time:          652
+Innitial Wait Time:    70
+Turn Around Time:      144
+Innactive Time:        70
+--------Process # 11----------------------------------
+Process ID:            1010
+Service Time:          72
+Arrival Time:          808
+Innitial Wait Time:    8
+Turn Around Time:      80
+Innactive Time:        8
+--------Process # 12----------------------------------
+Process ID:            1011
+Service Time:          6
+Arrival Time:          892
+Innitial Wait Time:    41
+Turn Around Time:      47
+Innactive Time:        41
+--------Process # 13----------------------------------
+Process ID:            1012
+Service Time:          61
+Arrival Time:          920
+Innitial Wait Time:    19
+Turn Around Time:      80
+Innactive Time:        19
+--------Process # 14----------------------------------
+Process ID:            1008
+Service Time:          39
+Arrival Time:          676
+Innitial Wait Time:    120
+Turn Around Time:      351
+Innactive Time:        312
+--------Process # 15----------------------------------
+Process ID:            1008
+Service Time:          39
+Arrival Time:          676
+Innitial Wait Time:    120
+Turn Around Time:      351
+Innactive Time:        312
+--------Process # 16----------------------------------
+Process ID:            1008
+Service Time:          39
+Arrival Time:          676
+Innitial Wait Time:    120
+Turn Around Time:      351
+Innactive Time:        312
+--------Process # 17----------------------------------
+Process ID:            1008
+Service Time:          39
+Arrival Time:          676
+Innitial Wait Time:    120
+Turn Around Time:      351
+Innactive Time:        312
+--------Process # 18----------------------------------
+Process ID:            1009
+Service Time:          43
+Arrival Time:          710
+Innitial Wait Time:    96
+Turn Around Time:      333
+Innactive Time:        290
+--------Process # 19----------------------------------
+Process ID:            1009
+Service Time:          43
+Arrival Time:          710
+Innitial Wait Time:    96
+Turn Around Time:      333
+Innactive Time:        290
+--------Process # 20----------------------------------
+Process ID:            1009
+Service Time:          43
+Arrival Time:          710
+Innitial Wait Time:    96
+Turn Around Time:      333
+Innactive Time:        290
+--------Process # 21----------------------------------
+Process ID:            1009
+Service Time:          43
+Arrival Time:          710
+Innitial Wait Time:    96
+Turn Around Time:      333
+Innactive Time:        290
+--------Process # 22----------------------------------
+Process ID:            1013
+Service Time:          39
+Arrival Time:          939
+Innitial Wait Time:    61
+Turn Around Time:      156
+Innactive Time:        117
+--------Process # 23----------------------------------
+Process ID:            1013
+Service Time:          39
+Arrival Time:          939
+Innitial Wait Time:    61
+Turn Around Time:      156
+Innactive Time:        117
+--------Process # 24----------------------------------
+Process ID:            1013
+Service Time:          39
+Arrival Time:          939
+Innitial Wait Time:    61
+Turn Around Time:      156
+Innactive Time:        117
+--------Process # 25----------------------------------
+Process ID:            1013
+Service Time:          39
+Arrival Time:          939
+Innitial Wait Time:    61
+Turn Around Time:      156
+Innactive Time:        117
+--------Process # 26----------------------------------
+Process ID:            1014
+Service Time:          50
+Arrival Time:          992
+Innitial Wait Time:    18
+Turn Around Time:      127
+Innactive Time:        77
+--------Process # 27----------------------------------
+Process ID:            1014
+Service Time:          50
+Arrival Time:          992
+Innitial Wait Time:    18
+Turn Around Time:      127
+Innactive Time:        77
+--------Process # 28----------------------------------
+Process ID:            1014
+Service Time:          50
+Arrival Time:          992
+Innitial Wait Time:    18
+Turn Around Time:      127
+Innactive Time:        77
+--------Process # 29----------------------------------
+Process ID:            1014
+Service Time:          50
+Arrival Time:          992
+Innitial Wait Time:    18
+Turn Around Time:      127
+Innactive Time:        77
+--------Process # 30----------------------------------
+Process ID:            1014
+Service Time:          50
+Arrival Time:          992
+Innitial Wait Time:    18
+Turn Around Time:      127
+Innactive Time:        77
+--------Process # 31----------------------------------
+Process ID:            1015
+Service Time:          89
+Arrival Time:          1179
+Innitial Wait Time:    0
+Turn Around Time:      89
+Innactive Time:        0
+--------Process # 32----------------------------------
+Process ID:            1016
+Service Time:          80
+Arrival Time:          1254
+Innitial Wait Time:    14
+Turn Around Time:      94
+Innactive Time:        14
+--------Process # 33----------------------------------
+Process ID:            1017
+Service Time:          97
+Arrival Time:          1316
+Innitial Wait Time:    32
+Turn Around Time:      129
+Innactive Time:        32
+--------Process # 34----------------------------------
+Process ID:            1018
+Service Time:          22
+Arrival Time:          1496
+Innitial Wait Time:    0
+Turn Around Time:      23
+Innactive Time:        1
+--------Process # 35----------------------------------
+Process ID:            1018
+Service Time:          22
+Arrival Time:          1496
+Innitial Wait Time:    0
+Turn Around Time:      23
+Innactive Time:        1
+--------Process # 36----------------------------------
+Process ID:            1019
+Service Time:          12
+Arrival Time:          1528
+Innitial Wait Time:    0
+Turn Around Time:      12
+Innactive Time:        0
+--------Process # 37----------------------------------
+Process ID:            1020
+Service Time:          97
+Arrival Time:          1580
+Innitial Wait Time:    0
+Turn Around Time:      97
+Innactive Time:        0
+--------Process # 38----------------------------------
+Process ID:            1021
+Service Time:          46
+Arrival Time:          1728
+Innitial Wait Time:    0
+Turn Around Time:      177
+Innactive Time:        131
+--------Process # 39----------------------------------
+Process ID:            1021
+Service Time:          46
+Arrival Time:          1728
+Innitial Wait Time:    0
+Turn Around Time:      177
+Innactive Time:        131
+--------Process # 40----------------------------------
+Process ID:            1021
+Service Time:          46
+Arrival Time:          1728
+Innitial Wait Time:    0
+Turn Around Time:      177
+Innactive Time:        131
+--------Process # 41----------------------------------
+Process ID:            1022
+Service Time:          35
+Arrival Time:          1755
+Innitial Wait Time:    3
+Turn Around Time:      152
+Innactive Time:        117
+--------Process # 42----------------------------------
+Process ID:            1023
+Service Time:          92
+Arrival Time:          1773
+Innitial Wait Time:    38
+Turn Around Time:      130
+Innactive Time:        38
+--------Process # 43----------------------------------
+Process ID:            1021
+Service Time:          46
+Arrival Time:          1728
+Innitial Wait Time:    0
+Turn Around Time:      177
+Innactive Time:        131
+--------Process # 44----------------------------------
+Process ID:            1021
+Service Time:          46
+Arrival Time:          1728
+Innitial Wait Time:    0
+Turn Around Time:      177
+Innactive Time:        131
+--------Process # 45----------------------------------
+Process ID:            1022
+Service Time:          35
+Arrival Time:          1755
+Innitial Wait Time:    3
+Turn Around Time:      152
+Innactive Time:        117
+--------Process # 46----------------------------------
+Process ID:            1022
+Service Time:          35
+Arrival Time:          1755
+Innitial Wait Time:    3
+Turn Around Time:      152
+Innactive Time:        117
+--------Process # 47----------------------------------
+Process ID:            1024
+Service Time:          13
+Arrival Time:          1910
+Innitial Wait Time:    0
+Turn Around Time:      13
+Innactive Time:        0
+--------Process # 48----------------------------------
+Process ID:            1025
+Service Time:          32
+Arrival Time:          2051
+Innitial Wait Time:    0
+Turn Around Time:      34
+Innactive Time:        2
+--------Process # 49----------------------------------
+Process ID:            1025
+Service Time:          32
+Arrival Time:          2051
+Innitial Wait Time:    0
+Turn Around Time:      34
+Innactive Time:        2
+--------Process # 50----------------------------------
+Process ID:            1025
+Service Time:          32
+Arrival Time:          2051
+Innitial Wait Time:    0
+Turn Around Time:      34
+Innactive Time:        2
+--------Process # 51----------------------------------
+Process ID:            1026
+Service Time:          37
+Arrival Time:          2093
+Innitial Wait Time:    0
+Turn Around Time:      40
+Innactive Time:        3
+--------Process # 52----------------------------------
+Process ID:            1026
+Service Time:          37
+Arrival Time:          2093
+Innitial Wait Time:    0
+Turn Around Time:      40
+Innactive Time:        3
+--------Process # 53----------------------------------
+Process ID:            1026
+Service Time:          37
+Arrival Time:          2093
+Innitial Wait Time:    0
+Turn Around Time:      40
+Innactive Time:        3
+--------Process # 54----------------------------------
+Process ID:            1026
+Service Time:          37
+Arrival Time:          2093
+Innitial Wait Time:    0
+Turn Around Time:      40
+Innactive Time:        3
+--------Process # 55----------------------------------
+Process ID:            1027
+Service Time:          29
+Arrival Time:          2134
+Innitial Wait Time:    0
+Turn Around Time:      31
+Innactive Time:        2
+--------Process # 56----------------------------------
+Process ID:            1027
+Service Time:          29
+Arrival Time:          2134
+Innitial Wait Time:    0
+Turn Around Time:      31
+Innactive Time:        2
+--------Process # 57----------------------------------
+Process ID:            1027
+Service Time:          29
+Arrival Time:          2134
+Innitial Wait Time:    0
+Turn Around Time:      31
+Innactive Time:        2
+--------Process # 58----------------------------------
+Process ID:            1028
+Service Time:          2
+Arrival Time:          2167
+Innitial Wait Time:    0
+Turn Around Time:      2
+Innactive Time:        0
+--------Process # 59----------------------------------
+Process ID:            1029
+Service Time:          3
+Arrival Time:          2216
+Innitial Wait Time:    0
+Turn Around Time:      3
+Innactive Time:        0
+--------Process # 60----------------------------------
+Process ID:            1030
+Service Time:          59
+Arrival Time:          2219
+Innitial Wait Time:    0
+Turn Around Time:      59
+Innactive Time:        0
+--------Process # 61----------------------------------
+Process ID:            1031
+Service Time:          15
+Arrival Time:          2345
+Innitial Wait Time:    0
+Turn Around Time:      15
+Innactive Time:        0
+--------Process # 62----------------------------------
+Process ID:            1033
+Service Time:          91
+Arrival Time:          2365
+Innitial Wait Time:    5
+Turn Around Time:      96
+Innactive Time:        5
+--------Process # 63----------------------------------
+Process ID:            1035
+Service Time:          6
+Arrival Time:          2410
+Innitial Wait Time:    61
+Turn Around Time:      67
+Innactive Time:        61
+--------Process # 64----------------------------------
+Process ID:            1032
+Service Time:          31
+Arrival Time:          2348
+Innitial Wait Time:    12
+Turn Around Time:      198
+Innactive Time:        167
+--------Process # 65----------------------------------
+Process ID:            1036
+Service Time:          20
+Arrival Time:          2458
+Innitial Wait Time:    19
+Turn Around Time:      86
+Innactive Time:        66
+--------Process # 66----------------------------------
+Process ID:            1036
+Service Time:          20
+Arrival Time:          2458
+Innitial Wait Time:    19
+Turn Around Time:      86
+Innactive Time:        66
+--------Process # 67----------------------------------
+Process ID:            1032
+Service Time:          31
+Arrival Time:          2348
+Innitial Wait Time:    12
+Turn Around Time:      198
+Innactive Time:        167
+--------Process # 68----------------------------------
+Process ID:            1032
+Service Time:          31
+Arrival Time:          2348
+Innitial Wait Time:    12
+Turn Around Time:      198
+Innactive Time:        167
+--------Process # 69----------------------------------
+Process ID:            1034
+Service Time:          36
+Arrival Time:          2381
+Innitial Wait Time:    80
+Turn Around Time:      169
+Innactive Time:        133
+--------Process # 70----------------------------------
+Process ID:            1034
+Service Time:          36
+Arrival Time:          2381
+Innitial Wait Time:    80
+Turn Around Time:      169
+Innactive Time:        133
+--------Process # 71----------------------------------
+Process ID:            1034
+Service Time:          36
+Arrival Time:          2381
+Innitial Wait Time:    80
+Turn Around Time:      169
+Innactive Time:        133
+--------Process # 72----------------------------------
+Process ID:            1034
+Service Time:          36
+Arrival Time:          2381
+Innitial Wait Time:    80
+Turn Around Time:      169
+Innactive Time:        133
+--------Process # 73----------------------------------
+Process ID:            1037
+Service Time:          41
+Arrival Time:          2592
+Innitial Wait Time:    0
+Turn Around Time:      44
+Innactive Time:        3
+--------Process # 74----------------------------------
+Process ID:            1037
+Service Time:          41
+Arrival Time:          2592
+Innitial Wait Time:    0
+Turn Around Time:      44
+Innactive Time:        3
+--------Process # 75----------------------------------
+Process ID:            1037
+Service Time:          41
+Arrival Time:          2592
+Innitial Wait Time:    0
+Turn Around Time:      44
+Innactive Time:        3
+--------Process # 76----------------------------------
+Process ID:            1037
+Service Time:          41
+Arrival Time:          2592
+Innitial Wait Time:    0
+Turn Around Time:      44
+Innactive Time:        3
+--------Process # 77----------------------------------
+Process ID:            1038
+Service Time:          23
+Arrival Time:          2634
+Innitial Wait Time:    2
+Turn Around Time:      26
+Innactive Time:        3
+--------Process # 78----------------------------------
+Process ID:            1038
+Service Time:          23
+Arrival Time:          2634
+Innitial Wait Time:    2
+Turn Around Time:      26
+Innactive Time:        3
+--------Process # 79----------------------------------
+Process ID:            1039
+Service Time:          10
+Arrival Time:          2689
+Innitial Wait Time:    0
+Turn Around Time:      10
+Innactive Time:        0
+--------Process # 80----------------------------------
+Process ID:            1040
+Service Time:          72
+Arrival Time:          2759
+Innitial Wait Time:    0
+Turn Around Time:      72
+Innactive Time:        0
+--------Process # 81----------------------------------
+Process ID:            1041
+Service Time:          63
+Arrival Time:          2882
+Innitial Wait Time:    0
+Turn Around Time:      63
+Innactive Time:        0
+--------Process # 82----------------------------------
+Process ID:            1042
+Service Time:          96
+Arrival Time:          2885
+Innitial Wait Time:    60
+Turn Around Time:      156
+Innactive Time:        60
+--------Process # 83----------------------------------
+Process ID:            1043
+Service Time:          95
+Arrival Time:          2990
+Innitial Wait Time:    51
+Turn Around Time:      146
+Innactive Time:        51
+--------Process # 84----------------------------------
+Process ID:            1044
+Service Time:          19
+Arrival Time:          3120
+Innitial Wait Time:    16
+Turn Around Time:      36
+Innactive Time:        17
+--------Process # 85----------------------------------
+Process ID:            1044
+Service Time:          19
+Arrival Time:          3120
+Innitial Wait Time:    16
+Turn Around Time:      36
+Innactive Time:        17
+--------Process # 86----------------------------------
+Process ID:            1045
+Service Time:          69
+Arrival Time:          3162
+Innitial Wait Time:    0
+Turn Around Time:      69
+Innactive Time:        0
+--------Process # 87----------------------------------
+Process ID:            1046
+Service Time:          55
+Arrival Time:          3236
+Innitial Wait Time:    0
+Turn Around Time:      55
+Innactive Time:        0
+--------Process # 88----------------------------------
+Process ID:            1048
+Service Time:          7
+Arrival Time:          3262
+Innitial Wait Time:    39
+Turn Around Time:      46
+Innactive Time:        39
+--------Process # 89----------------------------------
+Process ID:            1047
+Service Time:          44
+Arrival Time:          3245
+Innitial Wait Time:    46
+Turn Around Time:      130
+Innactive Time:        86
+--------Process # 90----------------------------------
+Process ID:            1047
+Service Time:          44
+Arrival Time:          3245
+Innitial Wait Time:    46
+Turn Around Time:      130
+Innactive Time:        86
+--------Process # 91----------------------------------
+Process ID:            1047
+Service Time:          44
+Arrival Time:          3245
+Innitial Wait Time:    46
+Turn Around Time:      130
+Innactive Time:        86
+--------Process # 92----------------------------------
+Process ID:            1047
+Service Time:          44
+Arrival Time:          3245
+Innitial Wait Time:    46
+Turn Around Time:      130
+Innactive Time:        86
+--------Process # 93----------------------------------
+Process ID:            1049
+Service Time:          45
+Arrival Time:          3288
+Innitial Wait Time:    20
+Turn Around Time:      105
+Innactive Time:        60
+--------Process # 94----------------------------------
+Process ID:            1049
+Service Time:          45
+Arrival Time:          3288
+Innitial Wait Time:    20
+Turn Around Time:      105
+Innactive Time:        60
+--------Process # 95----------------------------------
+Process ID:            1049
+Service Time:          45
+Arrival Time:          3288
+Innitial Wait Time:    20
+Turn Around Time:      105
+Innactive Time:        60
+--------Process # 96----------------------------------
+Process ID:            1049
+Service Time:          45
+Arrival Time:          3288
+Innitial Wait Time:    20
+Turn Around Time:      105
+Innactive Time:        60
+--------Process # 97----------------------------------
+Process ID:            1050
+Service Time:          7
+Arrival Time:          3461
+Innitial Wait Time:    0
+Turn Around Time:      7
+Innactive Time:        0
+--------Process # 98----------------------------------
+Process ID:            1051
+Service Time:          44
+Arrival Time:          3686
+Innitial Wait Time:    0
+Turn Around Time:      47
+Innactive Time:        3
+--------Process # 99----------------------------------
